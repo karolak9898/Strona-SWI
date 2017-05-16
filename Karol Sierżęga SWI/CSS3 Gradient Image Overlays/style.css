@@ -1,0 +1,11 @@
+.color-overlay {
+  width: 690px;
+  height: 460px;
+
+  background:
+  linear-gradient(
+  rgba(46, 185, 201, 0.45),
+  rgba(46, 185, 201, 0.45)
+  ),
+  url(../images/gradient.jpg);
+}
